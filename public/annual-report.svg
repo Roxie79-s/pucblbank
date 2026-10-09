@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 280" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Annual report and financial statements</title>
+  <desc id="desc">A published report beside a clear financial performance chart.</desc>
+  <defs>
+    <linearGradient id="report-bg" x1="0" y1="0" x2="600" y2="280"><stop stop-color="#edf2fc"/><stop offset="1" stop-color="#f8eaf3"/></linearGradient>
+    <linearGradient id="report-paper" x1="170" y1="36" x2="365" y2="250"><stop stop-color="#fff"/><stop offset="1" stop-color="#f8f9fd"/></linearGradient>
+  </defs>
+  <rect width="600" height="280" rx="20" fill="url(#report-bg)"/>
+  <circle cx="494" cy="70" r="48" fill="#fff" fill-opacity=".55"/>
+  <rect x="170" y="38" width="195" height="212" rx="13" fill="url(#report-paper)" stroke="#d8e0f1" stroke-width="2"/>
+  <rect x="191" y="62" width="36" height="7" rx="3.5" fill="#d5a2cb"/>
+  <path d="M191 91h146M191 103h110" stroke="#9aa8c6" stroke-width="5" stroke-linecap="round"/>
+  <rect x="191" y="126" width="151" height="93" rx="9" fill="#f0f3fb"/>
+  <path d="M207 201h120M211 191l29-20 25 8 25-32 28 11" stroke="#3052a1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="290" cy="147" r="6" fill="#d5a2cb"/><circle cx="318" cy="158" r="6" fill="#d5a2cb"/>
+  <rect x="378" y="112" width="139" height="91" rx="14" fill="#fff" stroke="#e1e7f2" stroke-width="2"/>
+  <path d="M400 179v-22h19v22m10 0v-39h19v39m10 0v-29h19v29" stroke="#3052a1" stroke-width="9" stroke-linecap="round"/>
+  <path d="M400 185h88" stroke="#d5a2cb" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="121" cy="189" r="37" fill="#fff" fill-opacity=".62"/>
+  <path d="M103 189h36m-18-18v36" stroke="#d5a2cb" stroke-width="5" stroke-linecap="round"/>
+</svg>
